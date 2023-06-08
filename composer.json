@@ -1,0 +1,19 @@
+{
+    "name": "skarner2016/error-code",
+    "description": "error-code",
+    "type": "library",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Skarner2016\\ErrorCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "skarner2016",
+            "email": "skarner2016@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
