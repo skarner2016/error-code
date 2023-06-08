@@ -2,7 +2,7 @@
     "name": "skarner2016/error-code",
     "description": "error-code",
     "type": "library",
-    "license": "GPL",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Skarner2016\\ErrorCode\\": "src/"
