@@ -5,7 +5,7 @@
     "license": "proprietary",
     "autoload": {
         "psr-4": {
-            "Skarner2016\\ErrorCode\\": "src/"
+            "Skarner2016\\": "src/"
         }
     },
     "authors": [
