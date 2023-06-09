@@ -1,12 +1,12 @@
 <?php
 
-namespace Skarner2016\ErrorCode;
+namespace Skarner2016;
 
 /**
  * @desc
  * @author  skarner <2023-06-08 14:29>
  */
-class Code
+class ErrorCode
 {
     // system error
     const SUCCESS           = 200;
